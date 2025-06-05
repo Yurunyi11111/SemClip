@@ -1,0 +1,3 @@
+numpy==1.21.5
+kornia==0.6.3
+pymage_size
